@@ -1,4 +1,14 @@
 # hello-world
 Just another starter repository
 
-new line
+The start of an epic programming toolkit to change the world
+
+-Website hosting
+
+-Database Repositories
+
+-Networking
+
+-Cloud
+
+-Artificial Intelligence
